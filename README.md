@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.canva.com/design/DAGYQprpr6Y/sR23OtwaqTztTAJx5d-gfA/view?utm_content=DAGYQprpr6Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 
 <h1 align="center">Hi 👋, I'm Vinicius Manfrin</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
