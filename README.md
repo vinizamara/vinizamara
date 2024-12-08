@@ -1,12 +1,37 @@
-[![MasterHead](https://www.canva.com/design/DAGYQprpr6Y/sR23OtwaqTztTAJx5d-gfA/view?utm_content=DAGYQprpr6Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+# 👋 Olá! Eu sou Vinicius Manfrin.  
 
-<h1 align="center">Hi 👋, I'm Vinicius Manfrin</h1>
-<h3 align="center">Desenvolvedor Full-Stack</h3>
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, aprendizados e algumas curiosidades sobre mim.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/viniciusmanfrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciusmanfrin" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 🚀 Sobre Mim  
+🎓 **Formação**: Técnico em Desenvolvimento de Sistemas. 
+💻 **Áreas de Interesse**: Desenvolvimento Web e Mobile, tanto back quanto front-end.    
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+![React](https://img.shields.io/badge/-React-222222?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat-square&logo=node.js)  
+![Git](https://img.shields.io/badge/-Git-222222?style=flat-square&logo=git)  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat-square&logo=visual-studio-code)  
+
+---
+
+## 🌐 Conecte-se Comigo  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/viniciusmanfrin)  
+[![Portfólio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github)](https://seuportfolio.com)  
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:vinizamara@gmail.com)  
+
+---
+
+## 📊 Estatísticas do GitHub  
+![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=vinizamara&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizamara&layout=compact&theme=radical)  
+
+---
+
+### 🌟 Projetos Destacados  
+- **[Projeto 1](link_para_projeto)**: Breve descrição.  
+- **[Projeto 2](link_para_projeto)**: Breve descrição.  
+
