@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">👋 Olá! Sou um desenvolvedor de softwares especializado em desenvolvimento web e mobile, com experiência no front-end e back-end.<br><br>👨‍🎓 Formado em Desenvolvimento de Sistemas pelo SENAI, trabalho com tecnologias como JavaScript, React, React Native, Node.js, MySQL e Docker.<br><br>🎯 Busco uma oportunidade na área de Desenvolvimento de Sistemas para aplicar minhas habilidades e continuar crescendo profissionalmente.<br><br>🎵 Apaixonado por música, estou aprendendo a tocar viola caipira no meu tempo livre.</h3>
+<p align="left">👋 Olá! Sou um desenvolvedor de softwares especializado em desenvolvimento web e mobile, com experiência no front-end e back-end.<br><br>👨‍🎓 Formado em Desenvolvimento de Sistemas pelo SENAI, trabalho com tecnologias como JavaScript, React, React Native, Node.js, MySQL e Docker.<br><br>🎯 Busco uma oportunidade na área de Desenvolvimento de Sistemas para aplicar minhas habilidades e continuar crescendo profissionalmente.<br><br>🎵 Apaixonado por música, estou aprendendo a tocar viola caipira no meu tempo livre.</p>
 
 ###
 
