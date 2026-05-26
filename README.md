@@ -22,7 +22,7 @@
 ###
 
 <p align="left">
-💻 Desenvolvedor de software com formação técnica em Desenvolvimento de Sistemas pelo SENAI, atuando principalmente no desenvolvimento de aplicações web e APIs.<br><br>
+💻 Desenvolvedor de software com formação técnica em Desenvolvimento de Sistemas pelo SENAI, atuando no desenvolvimento de aplicações web e APIs.<br><br>
 
 ⚙️ Possuo experiência com JavaScript, Node.js, React, MySQL e Docker, participando da construção de aplicações full-stack com foco em organização, integração entre serviços e boas práticas de desenvolvimento.<br><br>
 
@@ -75,18 +75,4 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-</div>
-
-###
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinizamara&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" />
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinizamara&layout=compact&langs_count=7&theme=merko&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinizamara&theme=merko&hide_border=true" />
 </div>
